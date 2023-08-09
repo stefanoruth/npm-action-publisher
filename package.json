@@ -1,0 +1,9 @@
+{
+    "name": "npm-action-publisher",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/stefanoruth/npm-action-publisher.git",
+    "author": "Stefano Ruth <6178983+stefanoruth@users.noreply.github.com>",
+    "license": "MIT",
+    "private": false
+}
