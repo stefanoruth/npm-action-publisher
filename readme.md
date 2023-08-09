@@ -1,0 +1,1 @@
+# This is a demo package for automating releases from github to NPM
