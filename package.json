@@ -1,5 +1,5 @@
 {
-    "name": "npm-action-publisher",
+    "name": "@stefanoruth/npm-action-publisher",
     "version": "1.0.1",
     "main": "index.js",
     "repository": "https://github.com/stefanoruth/npm-action-publisher.git",
